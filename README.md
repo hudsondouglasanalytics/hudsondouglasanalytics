@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hudson Douglas</h1>
-<h3 align="center">Apaixonado por ciência de dados e tecnologia, adoro estudar conceitos novos e conheces novas culturas!</h3>
+<h3 align="center">Sou paixonado por ciência de dados e tecnologia!</h3>
 
 - 🔭 Atualmente sou gerente de vendas [1001 parafusos](https://www.1001parafusos.com/)
 
